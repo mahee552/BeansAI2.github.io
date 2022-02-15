@@ -1,0 +1,107 @@
+
+
+ #as 
+ {	
+ font-size:15px;
+ }
+
+
+.container1
+{
+ position:relative;
+ padding-top:120px;
+
+ 
+}
+.text1
+{
+position:absolute;
+top: 235px;
+left:50px;
+color:white;
+}
+.text2
+{
+position:absolute;
+top:385px;
+left:50px;
+color:white;
+}
+.btn1
+{
+	position:absolute;
+	top:440px;
+	left:50px;
+	background-color:#e810b9;
+}
+
+
+.container2
+{
+	margin-top:105px;
+}
+.table-s
+{
+	
+	padding-left:25px;
+	padding-right:25px;
+	
+}
+i
+{
+	color:#57DAC3;
+}
+.cont-1
+{   padding-top:45px;
+    padding-bottom:30px;
+	background-color:#F7F9FB;
+	margin-top:100px;
+}
+.cont-2
+{   
+    padding-top:45px;
+    padding-bottom:30px;
+	margin-top:100px;
+}
+.cont-3
+{   background-color:#edf0f3;
+	padding-top:55px;
+    padding-bottom:40px;
+	margin-top:100px;
+}
+.cont-4
+{	
+    
+    padding-top:50px;
+	padding-bottom:50px;
+	background-color:#484848;
+}
+.asstimg
+{
+	margin-left:80px;
+}
+ footer 
+ {
+  background-color:#f8f9fa;
+  padding : 35px;
+  color :grey;
+  text-align:center;
+ }
+.flex-container {
+  display: flex;	
+  background-color: #484848;
+  color:white;
+  padding:30px;
+}
+.flex-container > div {
+  margin: 10px;
+  padding: 40px;
+  color:white;
+  
+}
+.flex-container > div> table{
+  margin: 10px;
+  padding: 40px;
+  color:white;
+  
+}
